@@ -13,20 +13,33 @@ public class Main {
 //
 //
 ////        list.deleteFirst();
-//       // System.out.println(list.deleteFirst());
+//       // System.out.println(list.delete First());
 //        list.display();
 ////        System.out.println(list.deleteLast());
 ////        list.deleteLast();
 //        list.delete(3);
 //        list.display();
+//
+//        DLL list = new DLL();
+//        list.insertFirst(23);
+//        list.insertFirst(14);
+//        list.insertFirst(12);
+//        list.insertFirst(13);
+//        list.insertFirst(24);
+//        list.insertLast(99);
+//        list.insertAfter(12,29);
+//        list.display();
 
-        DLL list = new DLL();
-        list.insertFirst(23);
-        list.insertFirst(14);
-        list.insertFirst(12);
-        list.insertFirst(13);
-        list.insertFirst(24);
+        CLL list = new CLL();
+        list.insertLast(12);
+        list.insertLast(23);
+        list.insertLast(14);
+        list.insertLast(25);
+        list.insertLast(29);
         list.display();
+        list.delete(14);
+        list.display();
+
 
     }
 }
