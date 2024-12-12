@@ -16,5 +16,7 @@ public class findmyoccurrence {
             }
             return findAllIndex(arr, target, index + 1, result);
         }
+
+
     }
 
