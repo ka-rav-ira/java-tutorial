@@ -87,9 +87,9 @@ public class RevisionD3 {
 
 //    Q5.Search Insert Position
 
-    static int searchInsert(int[] arr, int target){
-        
-    }
+//    static int searchInsert(int[] arr, int target){
+//
+//    }
 
 
 

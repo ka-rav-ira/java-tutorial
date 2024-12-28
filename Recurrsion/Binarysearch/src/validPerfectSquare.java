@@ -6,6 +6,7 @@ public class validPerfectSquare {
 
     static boolean validPerfectSquare(int n){
         int end = n; int start = 1;
+        
 
         while(start<=end){
             int mid = start + (end-start)/2;
