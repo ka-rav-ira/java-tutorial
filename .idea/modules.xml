@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-tutorial.iml" filepath="$PROJECT_DIR$/.idea/java-tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedList/linkedList.iml" filepath="$PROJECT_DIR$/linkedList/linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recurrsion/Binarysearch/neetcode/neetcode.iml" filepath="$PROJECT_DIR$/Recurrsion/Binarysearch/neetcode/neetcode.iml" />
     </modules>
   </component>
 </project>
