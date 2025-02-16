@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Recurrsion/Binarysearch/BSon2DArray/BSon2DArray.iml" filepath="$PROJECT_DIR$/Recurrsion/Binarysearch/BSon2DArray/BSon2DArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recurrsion/Binarysearch/Binarysearch.iml" filepath="$PROJECT_DIR$/Recurrsion/Binarysearch/Binarysearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recurrsion/Binarysearch/Bitmanipulation/Bitmanipulation.iml" filepath="$PROJECT_DIR$/Recurrsion/Binarysearch/Bitmanipulation/Bitmanipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recurrsion/Recurrsion.iml" filepath="$PROJECT_DIR$/Recurrsion/Recurrsion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-tutorial.iml" filepath="$PROJECT_DIR$/.idea/java-tutorial.iml" />
