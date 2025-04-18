@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Recurrsion/Binarysearch/Bitmanipulation/Array/Array.iml" filepath="$PROJECT_DIR$/Recurrsion/Binarysearch/Bitmanipulation/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recurrsion/Binarysearch/BSon2DArray/BSon2DArray.iml" filepath="$PROJECT_DIR$/Recurrsion/Binarysearch/BSon2DArray/BSon2DArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recurrsion/Binarysearch/Binarysearch.iml" filepath="$PROJECT_DIR$/Recurrsion/Binarysearch/Binarysearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recurrsion/Binarysearch/Bitmanipulation/Bitmanipulation.iml" filepath="$PROJECT_DIR$/Recurrsion/Binarysearch/Bitmanipulation/Bitmanipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recurrsion/Recurrsion.iml" filepath="$PROJECT_DIR$/Recurrsion/Recurrsion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recurrsion/Binarysearch/Bitmanipulation/Array/Strings/Strings.iml" filepath="$PROJECT_DIR$/Recurrsion/Binarysearch/Bitmanipulation/Array/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-tutorial.iml" filepath="$PROJECT_DIR$/.idea/java-tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedList/linkedList.iml" filepath="$PROJECT_DIR$/linkedList/linkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recurrsion/Binarysearch/neetcode/neetcode.iml" filepath="$PROJECT_DIR$/Recurrsion/Binarysearch/neetcode/neetcode.iml" />
