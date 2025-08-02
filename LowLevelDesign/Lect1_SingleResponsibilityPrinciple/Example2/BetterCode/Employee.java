@@ -1,4 +1,4 @@
-package LowLevelDesign.Example2.BetterCode;
+package LowLevelDesign.Lect1_SingleResponsibilityPrinciple.Example2.BetterCode;
 
 public class Employee {
 

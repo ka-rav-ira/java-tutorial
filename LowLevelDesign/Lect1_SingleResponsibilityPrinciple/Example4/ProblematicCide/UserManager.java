@@ -1,4 +1,4 @@
-package LowLevelDesign.Example4.ProblematicCide;
+package LowLevelDesign.Lect1_SingleResponsibilityPrinciple.Example4.ProblematicCide;
 
 public class UserManager {
 

@@ -1,4 +1,4 @@
-package LowLevelDesign.Example1;
+package LowLevelDesign.Lect1_SingleResponsibilityPrinciple.Example1;
 
  class Employee {
     private int id ;

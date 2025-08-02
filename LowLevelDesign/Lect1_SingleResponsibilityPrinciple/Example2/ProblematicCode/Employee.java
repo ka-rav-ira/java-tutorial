@@ -1,4 +1,4 @@
-package LowLevelDesign.Example2.ProblematicCode;
+package LowLevelDesign.Lect1_SingleResponsibilityPrinciple.Example2.ProblematicCode;
 
 public class Employee {
 
